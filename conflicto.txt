@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Linea B desde main
-=======
 Linea A desde feature/conflictos
->>>>>>> feature/conflictos
